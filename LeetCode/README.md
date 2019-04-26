@@ -1,4 +1,4 @@
-<div align =center><img src="https://github.com/kangzhiheng/CodingInterview/blob/master/src/adoredee.png"/></div>
+<div align =center><img src="https://github.com/kangzhiheng/GuideOfProgram/blob/master/src/adoredee.png"/></div>
 
 # 剑指offer刷题指南
 
