@@ -1,6 +1,6 @@
 <div align =center><img src="https://github.com/kangzhiheng/GuideOfProgram/blob/master/src/adoredee.png"/></div>
 
-# 剑指offer刷题指南
+# LeetCode刷题指南
 
  Author | adoredee
  :-: | :-:
