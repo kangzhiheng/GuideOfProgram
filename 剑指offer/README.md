@@ -55,6 +55,7 @@
     - [青蛙变态跳台阶(最多跳n级)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/10_03_%E9%9D%92%E8%9B%99%E5%8F%98%E6%80%81%E8%B7%B3%E5%8F%B0%E9%98%B6(%E6%9C%80%E5%A4%9A%E8%B7%B3n%E7%BA%A7).cpp)
 * 排序
 * 动态规划
+  - [面试题14 —— 剪绳子](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/14_%E5%89%AA%E7%BB%B3%E5%AD%90.cpp)
 * 分治
 * 二分法
 * 排序
@@ -80,5 +81,6 @@
   - [青蛙普通跳台阶(最多跳2级)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/10_02_%E9%9D%92%E8%9B%99%E6%99%AE%E9%80%9A%E8%B7%B3%E5%8F%B0%E9%98%B6(%E6%9C%80%E5%A4%9A%E8%B7%B32%E7%BA%A7).cpp)
   - [青蛙变态跳台阶(最多跳n级)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/10_03_%E9%9D%92%E8%9B%99%E5%8F%98%E6%80%81%E8%B7%B3%E5%8F%B0%E9%98%B6(%E6%9C%80%E5%A4%9A%E8%B7%B3n%E7%BA%A7).cpp)
 - [面试题11 —— 转数组中的最小数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/11_%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97.cpp)
+- [面试题14 —— 剪绳子](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/14_%E5%89%AA%E7%BB%B3%E5%AD%90.cpp)
 - [面试题24 —— 反转链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/24_%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.cpp)
 
