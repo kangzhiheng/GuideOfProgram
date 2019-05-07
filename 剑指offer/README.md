@@ -45,6 +45,8 @@
     - [用两个栈实现队列](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/09_01_%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.cpp)
     - [用两个队列实现栈](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/09_02_%E7%94%A8%E4%B8%A4%E4%B8%AA%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.cpp)
 * 图
+* 位运算
+  - [面试题15 —— 二进制中的1的个数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/15_二进制中的1的个数.cpp)
 
 #### 算法思想
 
@@ -82,5 +84,6 @@
   - [青蛙变态跳台阶(最多跳n级)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/10_03_%E9%9D%92%E8%9B%99%E5%8F%98%E6%80%81%E8%B7%B3%E5%8F%B0%E9%98%B6(%E6%9C%80%E5%A4%9A%E8%B7%B3n%E7%BA%A7).cpp)
 - [面试题11 —— 转数组中的最小数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/11_%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97.cpp)
 - [面试题14 —— 剪绳子](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/14_%E5%89%AA%E7%BB%B3%E5%AD%90.cpp)
+- [面试题15 —— 二进制中的1的个数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/15_二进制中的1的个数.cpp)
 - [面试题24 —— 反转链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/24_%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.cpp)
 
