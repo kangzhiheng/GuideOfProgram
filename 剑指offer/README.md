@@ -31,6 +31,7 @@
     - [不修改数组找出重复的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/03_02_%E4%B8%8D%E4%BF%AE%E6%94%B9%E6%95%B0%E7%BB%84%E6%89%BE%E5%87%BA%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.cpp)
   - [面试题4 —— 二维数组的查找](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/04_%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.cpp)
   - [面试题11 —— 转数组中的最小数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/11_%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97.cpp)
+  - [面试题16 —— 数值的整数次方](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/16_数值的整数次方.cpp)
 * 字符串
   - [面试题5 —— 替换空格](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
 * 链表
@@ -87,5 +88,6 @@
 - [面试题13 —— 机器人的运动范围](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/13_机器人的运动范围.cpp)
 - [面试题14 —— 剪绳子](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/14_%E5%89%AA%E7%BB%B3%E5%AD%90.cpp)
 - [面试题15 —— 二进制中的1的个数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/15_二进制中的1的个数.cpp)
+- [面试题16 —— 数值的整数次方](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/16_数值的整数次方.cpp)
 - [面试题24 —— 反转链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/24_%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.cpp)
 
