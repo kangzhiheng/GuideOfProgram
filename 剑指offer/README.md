@@ -91,5 +91,7 @@
 - [面试题15 —— 二进制中的1的个数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/15_二进制中的1的个数.cpp)
 - [面试题16 —— 数值的整数次方](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/16_数值的整数次方.cpp)
 - [面试题17 —— 打印从1到最大的n位数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/17_打印1到最大的n位数.cpp)
+- 面试题18 —— 删除链表的节点
+  - [在O(1)时间内删除链表节点.cpp](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/18_1_在O(1)时间内删除链表节点.cpp)
 - [面试题24 —— 反转链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/24_%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.cpp)
 
