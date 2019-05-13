@@ -42,6 +42,7 @@
   - 面试题18 —— 删除链表的节点
     - [在O(1)时间内删除链表节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/18_01_在O(1)时间内删除链表节点.cpp)
     - [删除链表中重复的节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/18_02_删除链表中重复的节点.cpp)
+  - [面试题22 —— 链表中倒数第k个节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/22_链表中倒数第k个节点.cpp)
   - [面试题24 —— 反转链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/24_%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.cpp)
 * 树
   - [面试题7 —— 重建二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/07_%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)
@@ -101,5 +102,6 @@
   - [删除链表中重复的节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/18_02_删除链表中重复的节点.cpp)
 - [面试题20 —— 表示数值的字符串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/20_表示数值的字符串.cpp)
 - [面试题21 —— 调整数组顺序使奇数位于偶数前面](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/21_调整数组顺序使奇数位于偶数前面.cpp)
+- [面试题22 —— 链表中倒数第k个节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/22_链表中倒数第k个节点.cpp)
 - [面试题24 —— 反转链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/24_%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.cpp)
 
