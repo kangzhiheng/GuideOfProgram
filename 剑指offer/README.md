@@ -103,5 +103,7 @@
 - [面试题20 —— 表示数值的字符串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/20_表示数值的字符串.cpp)
 - [面试题21 —— 调整数组顺序使奇数位于偶数前面](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/21_调整数组顺序使奇数位于偶数前面.cpp)
 - [面试题22 —— 链表中倒数第k个节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/22_链表中倒数第k个节点.cpp)
+- [面试题23 —— 链表中环的入口结点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/23_链表中环的入口结点.cpp)
 - [面试题24 —— 反转链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/24_%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.cpp)
+- [面试题25 —— 合并两个排序的链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/25_合并两个排序的链表.cpp)
 
