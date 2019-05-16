@@ -106,4 +106,4 @@
 - [面试题23 —— 链表中环的入口结点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/23_链表中环的入口结点.cpp)
 - [面试题24 —— 反转链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/24_%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.cpp)
 - [面试题25 —— 合并两个排序的链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/25_合并两个排序的链表.cpp)
-
+- [面试题26 —— 树的子结构](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/26_树的子结构.cpp)
