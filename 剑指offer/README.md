@@ -13,7 +13,7 @@
 主要有两个文件夹：
 
 - [剑指offer](https://github.com/kangzhiheng/GuideOfProgram/tree/master/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer)—— 依据书上的思路，结合自己的思考，用C++ STL进行改写，并提供完整的示例，包括详细的**思路**和**注释**以及完整多样的**输入**和**输出**
-- *[剑指offer源代码](https://github.com/kangzhiheng/GuideOfProgram/tree/master/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E6%BA%90%E4%BB%A3%E7%A0%81)*—— 《剑指offer》完整的源代码
+- [剑指offer源代码](https://github.com/kangzhiheng/GuideOfProgram/tree/master/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E6%BA%90%E4%BB%A3%E7%A0%81)—— 《剑指offer》完整的源代码
 
 根据书上的题目类型和顺序，我把这些题目大致分为以下两个目录，以方便查阅：
 
@@ -48,7 +48,8 @@
   - [面试题7 —— 重建二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/07_%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)
   - [面试题8 —— 二叉树的下一个节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/08_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E8%8A%82%E7%82%B9.cpp)
   - [面试题26 —— 树的子结构](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/26_树的子结构.cpp)
-  - [面试题27 —— 二叉树的镜象](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/27_二叉树的镜像.cpp)
+  - [面试题27 —— 二叉树的镜像](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/27_二叉树的镜像.cpp)
+  - [面试题28 —— 对称的二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/28_对称的二叉树.cpp)
 * 栈和队列
   - 面试题9 —— 栈和队列的转换
     - [用两个栈实现队列](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/09_01_%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.cpp)
@@ -108,3 +109,4 @@
 - [面试题25 —— 合并两个排序的链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/25_合并两个排序的链表.cpp)
 - [面试题26 —— 树的子结构](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/26_树的子结构.cpp)
 - [面试题27 —— 二叉树的镜象](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/27_二叉树的镜像.cpp)
+- [面试题28 —— 对称的二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/28_对称的二叉树.cpp)
