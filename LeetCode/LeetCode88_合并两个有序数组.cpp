@@ -50,7 +50,7 @@ vector<int> printMatrix(vector<vector<int> > num)
 			}
 		}
 		// 只有一列
-		else if (stCol == edCol)
+		else if (stCol == edCol)·
 		{
 			for (int i = stRow; i <= edRow; ++i)
 			{
