@@ -34,6 +34,7 @@
   - [面试题16 —— 数值的整数次方](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/16_数值的整数次方.cpp)
   - [面试题17 —— 打印从1到最大的n位数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/17_打印1到最大的n位数.cpp)
   - [面试题21 —— 调整数组顺序使奇数位于偶数前面](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/21_调整数组顺序使奇数位于偶数前面.cpp)
+  - [面试题29 —— 顺时针旋转矩阵](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/29_顺时针旋转矩阵.cpp)
 * 字符串
   - [面试题5 —— 替换空格](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
   - [面试题20 —— 表示数值的字符串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/20_表示数值的字符串.cpp)
@@ -110,3 +111,4 @@
 - [面试题26 —— 树的子结构](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/26_树的子结构.cpp)
 - [面试题27 —— 二叉树的镜象](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/27_二叉树的镜像.cpp)
 - [面试题28 —— 对称的二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/28_对称的二叉树.cpp)
+- [面试题29 —— 顺时针旋转矩阵](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/29_顺时针旋转矩阵.cpp)
