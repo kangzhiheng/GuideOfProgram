@@ -54,6 +54,7 @@
   - 面试题32 —— 从上到下打印二叉树
     - [不分行从上往下打印二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/32_01_从上到下打印二叉树.cpp)
     - [分行从上到下打印二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/32_02_分行从上到下打印二叉树.cpp)
+    - [之字形打印二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/32_03_之字形打印二叉树.cpp)
 * 栈和队列
   - 面试题9 —— 栈和队列的转换
     - [用两个栈实现队列](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/09_01_%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.cpp)
@@ -120,3 +121,4 @@
 - 面试题32 —— 从上到下打印二叉树
   - [不分行从上往下打印二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/32_01_从上到下打印二叉树.cpp)
   - [分行从上到下打印二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/32_02_分行从上到下打印二叉树.cpp)
+  - [之字形打印二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/32_03_之字形打印二叉树.cpp)
