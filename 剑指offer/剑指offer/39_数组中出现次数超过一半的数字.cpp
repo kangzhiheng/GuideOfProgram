@@ -14,6 +14,7 @@
 #include <iostream>
 #include <unordered_map>
 #include <algorithm>
+#include <iterator>
 #include <time.h>
 
 using namespace std;
@@ -130,6 +131,68 @@ int MoreThanHalfNum_BasedOnPartition(vector<int>& numbers)
 	return result;
 }
 
+// 方法二：数字中某一数字出现的次数超过长度的一半
+// 2.1  遍历
+int MoreThanHalfNum_Traversal(vector<int>& numbers)
+{
+	// 异常检测
+	if (CheckInvalidArray(numbers))
+		return 0;
+
+	int result = 0;
+	int times = 1;
+
+	for (int i = 0; i < numbers.size(); i++)
+	{
+		if (times == 0)    // 该数字与前一个数字不同
+		{
+			result = numbers[i];
+			// times = 0，表示无符合条件的数字，times = 1表示存在
+			times = 1;
+		}
+		else if (numbers[i] == result)    // 如果Numbers[i]与前面的数字相同，则加一
+			times++;
+		else    // 不同则减一
+			times--;
+	}
+
+	if (!CheckMoreThanHalf(numbers, result))
+		result = 0;
+
+	return result;    
+}
+
+// 2.2  map
+int MoreThanHalfNum_Map(vector<int>& numbers)
+{
+	// 异常检测
+	if (CheckInvalidArray(numbers))
+		return 0;
+
+	unordered_map<int, int> arr_map;
+
+	for (int i = 0; i < numbers.size(); ++i)
+		arr_map[numbers[i]]++;     // 统计数组中每个数字出现的频率
+
+//	for (auto& key : arr_map)
+//		cout << "Key:[" << key.first << "] Value:[" << key.second << "]" << endl;
+
+	int result = 0;
+	for (auto& key : arr_map)
+	{
+		if (key.second > (numbers.size() >> 1))    // 次数大于长度的一半
+		{
+			result = key.first;    
+			break;
+		}
+	}
+
+	if (!CheckMoreThanHalf(numbers, result))
+		result = 0;
+
+	return result;    // result = 0，表示无符合条件的数字，result = 1表示存在
+}
+
 int main()
 {
 	vector<int> arr;
@@ -146,9 +209,14 @@ int main()
 		arr.emplace_back(val);
 	}
 
-	int result = MoreThanHalfNum_BasedOnPartition(arr);
+	int result_1 = MoreThanHalfNum_BasedOnPartition(arr);
+	int result_2_1 = MoreThanHalfNum_Traversal(arr);
+	int result_2_2 = MoreThanHalfNum_Map(arr);
 
-	cout << "数组中出现次数超过一半的数字为：" << result << endl;
+	cout << "数组中出现次数超过一半的数字为：" << endl;
+	cout << "方法1   —> " << result_1 << endl;
+	cout << "方法2.1 —> " << result_2_1 << endl;
+	cout << "方法2.2 —> " << result_2_2 << endl;
 
 	return 0;
 }
