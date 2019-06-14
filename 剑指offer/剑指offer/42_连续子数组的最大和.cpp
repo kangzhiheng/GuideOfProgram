@@ -20,7 +20,7 @@ bool g_InvalidInput = false;    // 区别非法数组的
 
 int GreatestSumOfSubarray_Myself(vector<int>& arr)
 {
-	if (arr.empty() | arr.size() <= 0)
+	if (arr.empty() || arr.size() <= 0)
 	{
 		return 0;
 		g_InvalidInput = true;
