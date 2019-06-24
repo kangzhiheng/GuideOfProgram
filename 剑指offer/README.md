@@ -125,7 +125,7 @@
   - [不分行从上往下打印二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/32_01_从上到下打印二叉树.cpp)
   - [分行从上到下打印二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/32_02_分行从上到下打印二叉树.cpp)
   - [之字形打印二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/32_03_之字形打印二叉树.cpp)
-- [面试题38 —— 字符串的排列与组合]
+- 面试题38 —— 字符串的排列与组合
   - [字符串的排列(无重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的排列(无重复字符).cpp)
   - [字符串的排列(有重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的排列(有重复字符).cpp)
   - [字符串的组合(无重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的组合.cpp)
