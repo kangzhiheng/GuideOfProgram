@@ -1,5 +1,4 @@
 <div align =center><img src="https://github.com/kangzhiheng/GuideOfProgram/blob/master/src/adoredee.png"/></div>
-
 # 剑指offer刷题指南
 
  Author | adoredee
@@ -127,9 +126,9 @@
   - [分行从上到下打印二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/32_02_分行从上到下打印二叉树.cpp)
   - [之字形打印二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/32_03_之字形打印二叉树.cpp)
 - [面试题38 —— 字符串的排列与组合]
-  - [字符串的排列(无重复字符)]((https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的排列(无重复字符).cpp)
+  - [字符串的排列(无重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的排列(无重复字符).cpp)
   - [字符串的排列(有重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的排列(有重复字符).cpp)
-  - [字符串的组合](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的组合.cpp)
+  - [字符串的组合(无重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的组合.cpp)
 
 - [面试题39 —— 数组中出现次数超过一半的数字(新增哈希表做法)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/39_数组中出现次数超过一半的数字.cpp)
 - [面试题40 —— 最小的k个数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/40_最小的k个数.cpp)
