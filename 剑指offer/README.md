@@ -26,10 +26,10 @@
 #### 数据结构
 
 * 数组与矩阵
-  - 面试题3 —— 数组中重复的数字
+  - 面试题3   —— 数组中重复的数字
     - [找出数组中重复的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/03_01_%E6%89%BE%E5%87%BA%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.cpp)
     - [不修改数组找出重复的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/03_02_%E4%B8%8D%E4%BF%AE%E6%94%B9%E6%95%B0%E7%BB%84%E6%89%BE%E5%87%BA%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.cpp)
-  - [面试题4 —— 二维数组的查找](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/04_%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.cpp)
+  - [面试题4   —— 二维数组的查找](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/04_%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.cpp)
   - [面试题11 —— 转数组中的最小数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/11_%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97.cpp)
   - [面试题16 —— 数值的整数次方](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/16_数值的整数次方.cpp)
   - [面试题17 —— 打印从1到最大的n位数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/17_打印1到最大的n位数.cpp)
@@ -40,7 +40,7 @@
   - [面试题42 —— 连续子数组的最大和](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/42_连续子数组的最大和.cpp)
   - [面试题48 —— 最长不含重复字符的子字符串长度](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/48_最长不含重复字符的子字符串长度.cpp)
 * 字符串
-  - [面试题5 —— 替换空格](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
+  - [面试题5   —— 替换空格](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
   - [面试题20 —— 表示数值的字符串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/20_表示数值的字符串.cpp)
 * 链表
   - [面试题6 —— 从头到尾打印链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
@@ -50,8 +50,8 @@
   - [面试题22 —— 链表中倒数第k个节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/22_链表中倒数第k个节点.cpp)
   - [面试题24 —— 反转链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/24_%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.cpp)
 * 树
-  - [面试题7 —— 重建二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/07_%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)
-  - [面试题8 —— 二叉树的下一个节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/08_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E8%8A%82%E7%82%B9.cpp)
+  - [面试题7   —— 重建二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/07_%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)
+  - [面试题8   —— 二叉树的下一个节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/08_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E8%8A%82%E7%82%B9.cpp)
   - [面试题26 —— 树的子结构](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/26_树的子结构.cpp)
   - [面试题27 —— 二叉树的镜像](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/27_二叉树的镜像.cpp)
   - [面试题28 —— 对称的二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/28_对称的二叉树.cpp)
@@ -60,7 +60,7 @@
     - [分行从上到下打印二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/32_02_分行从上到下打印二叉树.cpp)
     - [之字形打印二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/32_03_之字形打印二叉树.cpp)
 * 栈和队列
-  - 面试题9 —— 栈和队列的转换
+  - 面试题9   —— 栈和队列的转换
     - [用两个栈实现队列](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/09_01_%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.cpp)
     - [用两个队列实现栈](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/09_02_%E7%94%A8%E4%B8%A4%E4%B8%AA%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.cpp)
   - [面试题30 —— 包含min函数的栈](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/30_包含min函数的栈.cpp)
@@ -83,18 +83,18 @@
 
 ### 剑指offer目录
 
-* 面试题3 —— 数组中重复的数字
+* 面试题3   —— 数组中重复的数字
 
   - [找出数组中重复的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/03_01_%E6%89%BE%E5%87%BA%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.cpp)
 
   - [不修改数组找出重复的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/03_02_%E4%B8%8D%E4%BF%AE%E6%94%B9%E6%95%B0%E7%BB%84%E6%89%BE%E5%87%BA%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.cpp)
 
-- [面试题4 —— 二维数组的查找](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/04_%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.cpp)
-- [面试题5 —— 替换空格](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
-- [面试题6 —— 从头到尾打印链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
-- [面试题7 —— 重建二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/07_%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)
-- [面试题8 —— 二叉树的下一个节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/08_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E8%8A%82%E7%82%B9.cpp)
-- 面试题9 —— 栈和队列的转换
+- [面试题4   —— 二维数组的查找](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/04_%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.cpp)
+- [面试题5   —— 替换空格](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
+- [面试题6   —— 从头到尾打印链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
+- [面试题7   —— 重建二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/07_%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)
+- [面试题8   —— 二叉树的下一个节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/08_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E8%8A%82%E7%82%B9.cpp)
+- 面试题9   —— 栈和队列的转换
   - [用两个栈实现队列](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/09_01_%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.cpp)
   - [用两个队列实现栈](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/09_02_%E7%94%A8%E4%B8%A4%E4%B8%AA%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.cpp)
 - 面试题10 —— 斐波那契系列问题
@@ -126,7 +126,13 @@
   - [不分行从上往下打印二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/32_01_从上到下打印二叉树.cpp)
   - [分行从上到下打印二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/32_02_分行从上到下打印二叉树.cpp)
   - [之字形打印二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/32_03_之字形打印二叉树.cpp)
+- [面试题38 —— 字符串的排列与组合]
+  - [字符串的排列(无重复字符)]((https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的排列(无重复字符).cpp)
+  - [字符串的排列(有重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的排列(有重复字符).cpp)
+  - [字符串的组合](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的组合.cpp)
+
 - [面试题39 —— 数组中出现次数超过一半的数字(新增哈希表做法)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/39_数组中出现次数超过一半的数字.cpp)
 - [面试题40 —— 最小的k个数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/40_最小的k个数.cpp)
 - [面试题42 —— 连续子数组的最大和](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/42_连续子数组的最大和.cpp)
 - [面试题48 —— 最长不含重复字符的子字符串长度](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/48_最长不含重复字符的子字符串长度.cpp)
+
