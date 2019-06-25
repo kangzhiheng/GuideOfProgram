@@ -81,6 +81,13 @@
     - [青蛙普通跳台阶(最多跳2级)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/10_02_%E9%9D%92%E8%9B%99%E6%99%AE%E9%80%9A%E8%B7%B3%E5%8F%B0%E9%98%B6(%E6%9C%80%E5%A4%9A%E8%B7%B32%E7%BA%A7).cpp)
     - [青蛙变态跳台阶(最多跳n级)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/10_03_%E9%9D%92%E8%9B%99%E5%8F%98%E6%80%81%E8%B7%B3%E5%8F%B0%E9%98%B6(%E6%9C%80%E5%A4%9A%E8%B7%B3n%E7%BA%A7).cpp)
 * 排序
+* 排列组合
+  - 面试题38 —— 排列与组合
+    - [字符串的排列(无重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的排列(无重复字符).cpp)
+    - [字符串的排列(有重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的排列(有重复字符).cpp)
+    - [字符串的组合(无重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的组合.cpp)
+    - [八皇后问题(全排列)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_八皇后问题(全排列).cpp)
+    - [八皇后问题(回溯)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_八皇后问题(回溯).cpp)
 * 动态规划
   - [面试题14 —— 剪绳子](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/14_%E5%89%AA%E7%BB%B3%E5%AD%90.cpp)
 * 分治
@@ -135,9 +142,9 @@
   - [字符串的排列(无重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的排列(无重复字符).cpp)
   - [字符串的排列(有重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的排列(有重复字符).cpp)
   - [字符串的组合(无重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的组合.cpp)
-- [八皇后问题(全排列)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_八皇后问题(全排列).cpp)
-  - [八皇后问题(回溯)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_八皇后问题(回溯).cpp)
+  - [八皇后问题(全排列)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_八皇后问题(全排列).cpp)
   
+  - [八皇后问题(回溯)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_八皇后问题(回溯).cpp)
 - [面试题39 —— 数组中出现次数超过一半的数字(新增哈希表做法)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/39_数组中出现次数超过一半的数字.cpp)
 - [面试题40 —— 最小的k个数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/40_最小的k个数.cpp)
 - [面试题42 —— 连续子数组的最大和](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/42_连续子数组的最大和.cpp)
