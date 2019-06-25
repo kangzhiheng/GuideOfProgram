@@ -41,6 +41,12 @@
 * 字符串
   - [面试题5   —— 替换空格](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
   - [面试题20 —— 表示数值的字符串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/20_表示数值的字符串.cpp)
+  - 面试题38 —— 字符串的排列与组合
+    - [字符串的排列(无重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的排列(无重复字符).cpp)
+    - [字符串的排列(有重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的排列(有重复字符).cpp)
+    - [字符串的组合(无重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的组合.cpp)
+    - [八皇后问题(全排列)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_八皇后问题(全排列).cpp)
+    - [八皇后问题(回溯)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_八皇后问题(回溯).cpp)
 * 链表
   - [面试题6 —— 从头到尾打印链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
   - 面试题18 —— 删除链表的节点
@@ -129,7 +135,9 @@
   - [字符串的排列(无重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的排列(无重复字符).cpp)
   - [字符串的排列(有重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的排列(有重复字符).cpp)
   - [字符串的组合(无重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的组合.cpp)
-
+- [八皇后问题(全排列)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_八皇后问题(全排列).cpp)
+  - [八皇后问题(回溯)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_八皇后问题(回溯).cpp)
+  
 - [面试题39 —— 数组中出现次数超过一半的数字(新增哈希表做法)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/39_数组中出现次数超过一半的数字.cpp)
 - [面试题40 —— 最小的k个数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/40_最小的k个数.cpp)
 - [面试题42 —— 连续子数组的最大和](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/42_连续子数组的最大和.cpp)
