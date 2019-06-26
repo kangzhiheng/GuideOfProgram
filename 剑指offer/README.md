@@ -36,7 +36,7 @@
   - [面试题29 —— 顺时针旋转矩阵](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/29_顺时针旋转矩阵.cpp)
   - [面试题39 —— 数组中出现次数超过一半的数字(新增哈希表做法)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/39_数组中出现次数超过一半的数字.cpp)
   - [面试题40 —— 最小的k个数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/40_最小的k个数.cpp)
-  - [面试题41 —— 数据流中的中位数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/41_数据流中的中位数)
+  - [面试题41 —— 数据流中的中位数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/41_数据流中的中位数.cpp)
   - [面试题42 —— 连续子数组的最大和](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/42_连续子数组的最大和.cpp)
   - [面试题48 —— 最长不含重复字符的子字符串长度](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/48_最长不含重复字符的子字符串长度.cpp)
 * 字符串
@@ -148,7 +148,7 @@
   - [八皇后问题(回溯)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_八皇后问题(回溯).cpp)
 - [面试题39 —— 数组中出现次数超过一半的数字(新增哈希表做法)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/39_数组中出现次数超过一半的数字.cpp)
 - [面试题40 —— 最小的k个数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/40_最小的k个数.cpp)
-- [面试题41 —— 数据流中的中位数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/41_数据流中的中位数)
+- [面试题41 —— 数据流中的中位数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/41_数据流中的中位数.cpp)
 - [面试题42 —— 连续子数组的最大和](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/42_连续子数组的最大和.cpp)
 - [面试题48 —— 最长不含重复字符的子字符串长度](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/48_最长不含重复字符的子字符串长度.cpp)
 
