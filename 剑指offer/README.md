@@ -155,7 +155,6 @@
 - [面试题42 —— 连续子数组的最大和](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/42_连续子数组的最大和.cpp)
 - 面试题43 —— 1~n整数中x出现的次数
   - [1 ~ n整数中x出现的次数(x属于1~9)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/43_1~n整数中x出现的次数(x属于1~9).cpp)
-- [1 ~ n整数中0出现的次数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/43_1~n整数中0出现的次数.cpp)
-  
+  - [1 ~ n整数中0出现的次数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/43_1~n整数中0出现的次数.cpp)
 - [面试题48 —— 最长不含重复字符的子字符串长度](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/48_最长不含重复字符的子字符串长度.cpp)
 
