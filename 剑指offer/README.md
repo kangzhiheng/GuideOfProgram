@@ -24,24 +24,40 @@
 
 #### 数据结构
 
-* 数组与矩阵
+* 数值、数组与矩阵
   - 面试题3   —— 数组中重复的数字
     - [找出数组中重复的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/03_01_%E6%89%BE%E5%87%BA%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.cpp)
     - [不修改数组找出重复的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/03_02_%E4%B8%8D%E4%BF%AE%E6%94%B9%E6%95%B0%E7%BB%84%E6%89%BE%E5%87%BA%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.cpp)
+    
   - [面试题4   —— 二维数组的查找](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/04_%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.cpp)
+  
   - [面试题11 —— 转数组中的最小数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/11_%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97.cpp)
+  
   - [面试题16 —— 数值的整数次方](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/16_数值的整数次方.cpp)
+  
   - [面试题17 —— 打印从1到最大的n位数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/17_打印1到最大的n位数.cpp)
+  
   - [面试题21 —— 调整数组顺序使奇数位于偶数前面](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/21_调整数组顺序使奇数位于偶数前面.cpp)
+  
   - [面试题29 —— 顺时针旋转矩阵](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/29_顺时针旋转矩阵.cpp)
+  
   - [面试题39 —— 数组中出现次数超过一半的数字(新增哈希表做法)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/39_数组中出现次数超过一半的数字.cpp)
+  
   - [面试题40 —— 最小的k个数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/40_最小的k个数.cpp)
+  
   - [面试题41 —— 数据流中的中位数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/41_数据流中的中位数.cpp)
+  
   - [面试题42 —— 连续子数组的最大和](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/42_连续子数组的最大和.cpp)
+  
   - [面试题48 —— 最长不含重复字符的子字符串长度](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/48_最长不含重复字符的子字符串长度.cpp)
+  
   - 面试题43 —— 1~n整数中x出现的次数
     - [1 ~ n整数中x出现的次数(x属于1~9)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/43_1~n整数中x出现的次数(x属于1~9).cpp)
     - [1 ~ n整数中0出现的次数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/43_1~n整数中0出现的次数.cpp)
+    
+  - [面试题44 - 数字序列中某一位的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/44_数字序列中某一位的数字.cpp)
+  
+    
 * 字符串
   - [面试题5   —— 替换空格](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
   - [面试题20 —— 表示数值的字符串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/20_表示数值的字符串.cpp)
@@ -75,6 +91,7 @@
   - [面试题30 —— 包含min函数的栈](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/30_包含min函数的栈.cpp)
 * 图
 * 位运算
+  
   - [面试题15 —— 二进制中的1的个数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/15_二进制中的1的个数.cpp)
 
 #### 算法思想
@@ -156,5 +173,6 @@
 - 面试题43 —— 1~n整数中x出现的次数
   - [1 ~ n整数中x出现的次数(x属于1~9)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/43_1~n整数中x出现的次数(x属于1~9).cpp)
   - [1 ~ n整数中0出现的次数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/43_1~n整数中0出现的次数.cpp)
+- [面试题44 - 数字序列中某一位的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/44_数字序列中某一位的数字.cpp)
 - [面试题48 —— 最长不含重复字符的子字符串长度](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/48_最长不含重复字符的子字符串长度.cpp)
 
