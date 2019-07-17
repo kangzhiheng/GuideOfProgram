@@ -20,7 +20,7 @@
 using namespace std;
 
 // 二维数组存储
-int get_1DMaxValue(vector<vector<int>>& arr)
+int get_2DMaxValue(vector<vector<int>>& arr)
 {
 	int row = arr.size();
 	int col = arr[0].size();
@@ -70,7 +70,7 @@ int main()
 		}
 	}
 
-	cout << "礼物的最大价值为：" << get_1DMaxValue(arr) << endl;
+	cout << "礼物的最大价值为：" << get_2DMaxValue(arr) << endl;
 
 
 	return 0;
