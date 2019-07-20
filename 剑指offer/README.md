@@ -171,4 +171,5 @@
   - [一维DP数组](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/47_礼物的最大价值(一维DP数组).cpp)
 - [面试题48 —— 最长不含重复字符的子字符串长度](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/48_最长不含重复字符的子字符串长度.cpp)
 - [面试题49 —— 丑数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/49_丑数.cpp)
-
+- 面试题50 —— 第一个只出现一次的字符
+  - [字符串中第一个只出现一次的字符](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/50_01_第一个只出现一次的字符.cpp)
