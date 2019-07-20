@@ -44,6 +44,7 @@
     - [1 ~ n整数中0出现的次数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/43_1~n整数中0出现的次数.cpp)
   - [面试题44 —— 数字序列中某一位的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/44_数字序列中某一位的数字.cpp)
   - [面试题45 —— 把数组排成最小的数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/45_把数组排成最小的数.cpp)
+  - [面试题49 —— 丑数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/49_丑数.cpp)
   
 * 字符串
   - [面试题5   —— 替换空格](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
@@ -98,7 +99,7 @@
     - [八皇后问题(回溯)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_八皇后问题(回溯).cpp)
 * 动态规划
   - [面试题14 —— 剪绳子](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/14_%E5%89%AA%E7%BB%B3%E5%AD%90.cpp)
-  - 面试题46 —— 礼物的最大价值
+  - 面试题47 —— 礼物的最大价值
     - [二维DP数组](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/47_礼物的最大价值(二维DP数组).cpp)
     - [一维DP数组](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/47_礼物的最大价值(一维DP数组).cpp)
 * 分治
@@ -165,8 +166,9 @@
   - [1 ~ n整数中0出现的次数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/43_1~n整数中0出现的次数.cpp)
 - [面试题44 —— 数字序列中某一位的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/44_数字序列中某一位的数字.cpp)
 - [面试题45 —— 把数组排成最小的数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/45_把数组排成最小的数.cpp)
-- 面试题46 —— 礼物的最大价值
+- 面试题47 —— 礼物的最大价值
   - [二维DP数组](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/47_礼物的最大价值(二维DP数组).cpp)
   - [一维DP数组](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/47_礼物的最大价值(一维DP数组).cpp)
 - [面试题48 —— 最长不含重复字符的子字符串长度](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/48_最长不含重复字符的子字符串长度.cpp)
+- [面试题49 —— 丑数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/49_丑数.cpp)
 
