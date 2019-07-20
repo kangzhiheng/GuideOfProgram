@@ -31,7 +31,12 @@ int IsUgliNumber(int index)
 	int M5 = 0;
 	for (int i = 1; i < index; ++i)
 	{
-		// 每一个丑数必是前面某三个对应倍数(是2，3，5的倍数的丑数)丑数的最小值
+		/* 每一个丑数必是前面某三个对应倍数(是2，3，5的倍数的丑数)丑数的最小值
+		i表示丑数的位置，num[i]存储i位置的丑数，M2表示丑数是2的倍数的丑数，M3和M5同理，更新位置表示对应倍数的丑数的位置，不是数组num的位置
+		i = 0, num[i] = 1 ,M2 = 0, M3 = 0, M5 = 0
+		i = 1, num[i] = 2 —> min(num[M2] * 2, num[M3] * 3, num[M5] * 5)，num[M2] * 2 = num[0] * 2 = 2最小，更新位置M2 = 1, M3 = 0, M5 = 0
+		i = 2, num[i] = 3 —> min(num[M2] * 2, num[M3] * 3, num[M5] * 5)，num[M3] * 3 = num[0] * 3 = 3最小，更新位置M2 = 1, M3 = 1, M5 = 0
+		*/
 		int MinCadUglyNum = min(num[M2] * 2, min(num[M3] * 3, num[M5] * 5));
 		// 找到对应倍数的丑数，对应倍数位置加1
 		if (MinCadUglyNum == num[M2] * 2)
