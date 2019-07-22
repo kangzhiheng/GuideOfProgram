@@ -56,12 +56,13 @@
     - [八皇后问题(全排列)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_八皇后问题(全排列).cpp)
     - [八皇后问题(回溯)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_八皇后问题(回溯).cpp)
 * 链表
-  - [面试题6 —— 从头到尾打印链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
+  - [面试题6 —— 从尾到头打印链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
   - 面试题18 —— 删除链表的节点
     - [在O(1)时间内删除链表节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/18_01_在O(1)时间内删除链表节点.cpp)
     - [删除链表中重复的节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/18_02_删除链表中重复的节点.cpp)
   - [面试题22 —— 链表中倒数第k个节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/22_链表中倒数第k个节点.cpp)
   - [面试题24 —— 反转链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/24_%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.cpp)
+  - [面试题52 —— 两个链表的第一个公共节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/52_两个链表的第一个公共节点.cpp)
 * 树
   - [面试题7   —— 重建二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/07_%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)
   - [面试题8   —— 二叉树的下一个节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/08_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E8%8A%82%E7%82%B9.cpp)
@@ -115,7 +116,7 @@
 
 - [面试题4   —— 二维数组的查找](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/04_%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.cpp)
 - [面试题5   —— 替换空格](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
-- [面试题6   —— 从头到尾打印链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
+- [面试题6   —— 从尾到头打印链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
 - [面试题7   —— 重建二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/07_%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)
 - [面试题8   —— 二叉树的下一个节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/08_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E8%8A%82%E7%82%B9.cpp)
 - 面试题9   —— 栈和队列的转换
@@ -173,3 +174,4 @@
 - [面试题49 —— 丑数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/49_丑数.cpp)
 - 面试题50 —— 第一个只出现一次的字符
   - [字符串中第一个只出现一次的字符](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/50_01_第一个只出现一次的字符.cpp)
+- [面试题52 —— 两个链表的第一个公共节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/52_两个链表的第一个公共节点.cpp)
