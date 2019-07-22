@@ -15,7 +15,7 @@
     思路：
     1. 获取两个链表的长度，做长度差pListDiff
     2. 再让长的链表先走pListDiff
-    3. 再比较两个链表剩余长度的每一个节点里的值是否相等
+    3. 再比较两个链表剩余长度的每一个节点是否相等(包括内存位置和该节点的值大小)
 */
 
 #include <iostream>
@@ -107,7 +107,7 @@ int GetListLength(ListNode* pHead)
     核心代码
 	1. 获取两个链表的长度，做长度差pListDiff
 	2. 再让长的链表先走pListDiff
-	3. 再比较两个链表剩余长度的每一个节点里的值是否相等
+	3. 再比较两个链表剩余长度的每一个节点是否相等(包括内存位置和该节点的值大小)
 */
 int FindFirstCommonNode(ListNode* pHead1, ListNode* pHead2)
 {
