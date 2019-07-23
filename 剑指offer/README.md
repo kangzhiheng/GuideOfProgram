@@ -11,7 +11,7 @@
 
 主要有两个文件夹：
 
-- [剑指offer](https://github.com/kangzhiheng/GuideOfProgram/tree/master/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer)—— 依据书上的思路，结合自己的思考，用C++ STL进行改写，并提供完整的示例，包括详细的**思路**和**注释**以及完整多样的**输入**和**输出**
+- [剑指offer](https://github.com/kangzhiheng/GuideOfProgram/tree/master/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer)—— 依据书上的思路，结合自己的思考，用C++ STL进行改写，并提供完整的示例，包括详细的**思路**和**注释**以及完整多样的**输入**和**输出**形式
 - [剑指offer源代码](https://github.com/kangzhiheng/GuideOfProgram/tree/master/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E6%BA%90%E4%BB%A3%E7%A0%81)—— 《剑指offer》完整的源代码
 
 根据书上的题目类型和顺序，我把这些题目大致分为以下两个目录，以方便查阅：
@@ -55,6 +55,9 @@
     - [字符串的组合(无重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的组合.cpp)
     - [八皇后问题(全排列)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_八皇后问题(全排列).cpp)
     - [八皇后问题(回溯)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_八皇后问题(回溯).cpp)
+  - 面试题50 —— 第一个只出现一次的字符
+    - [字符串中第一个只出现一次的字符](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/50_01_第一个只出现一次的字符.cpp)
+    - [字符流中第一个只出现一次的字符](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/50_02_字符流中第一个只出现一次的字符.cpp)
 * 链表
   - [面试题6 —— 从尾到头打印链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
   - 面试题18 —— 删除链表的节点
@@ -174,4 +177,5 @@
 - [面试题49 —— 丑数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/49_丑数.cpp)
 - 面试题50 —— 第一个只出现一次的字符
   - [字符串中第一个只出现一次的字符](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/50_01_第一个只出现一次的字符.cpp)
+  - [字符流中第一个只出现一次的字符](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/50_02_字符流中第一个只出现一次的字符.cpp)
 - [面试题52 —— 两个链表的第一个公共节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/52_两个链表的第一个公共节点.cpp)
