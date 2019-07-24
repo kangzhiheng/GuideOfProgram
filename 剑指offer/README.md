@@ -46,6 +46,8 @@
   - [面试题45 —— 把数组排成最小的数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/45_把数组排成最小的数.cpp)
   - [面试题49 —— 丑数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/49_丑数.cpp)
   - [面试题51 —— 数组中的逆序对](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/51_数组中的逆序对.cpp)
+  - 面试题53 —— 在排序数组中查找数字
+    - [数字在排序数组中出现的次数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/53_01_数字在排序数组中出现的次数)
   
 * 字符串
   - [面试题5   —— 替换空格](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
@@ -181,3 +183,5 @@
   - [字符流中第一个只出现一次的字符](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/50_02_字符流中第一个只出现一次的字符.cpp)
 - [面试题51 —— 数组中的逆序对](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/51_数组中的逆序对.cpp)
 - [面试题52 —— 两个链表的第一个公共节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/52_两个链表的第一个公共节点.cpp)
+- 面试题53 —— 在排序数组中查找数字
+  - [数字在排序数组中出现的次数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/53_01_数字在排序数组中出现的次数)
