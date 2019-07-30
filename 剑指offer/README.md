@@ -185,3 +185,4 @@
 - [面试题52 —— 两个链表的第一个公共节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/52_两个链表的第一个公共节点.cpp)
 - 面试题53 —— 在排序数组中查找数字
   - [数字在排序数组中出现的次数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/53_01_数字在排序数组中出现的次数.cpp)
+  - [0~n-1中缺失的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/53_02_0~n-1中缺失的数字.cpp)
