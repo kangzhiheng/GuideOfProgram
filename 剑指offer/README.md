@@ -48,6 +48,8 @@
   - [面试题51 —— 数组中的逆序对](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/51_数组中的逆序对.cpp)
   - 面试题53 —— 在排序数组中查找数字
     - [数字在排序数组中出现的次数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/53_01_数字在排序数组中出现的次数.cpp)
+    - [0~n-1中缺失的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/53_02_0~n-1中缺失的数字.cpp)
+    - [数组中数值和下标相等的元素](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/53_03_数组中数值和下标相等的元素.cpp)
   
 * 字符串
   - [面试题5   —— 替换空格](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
@@ -186,3 +188,4 @@
 - 面试题53 —— 在排序数组中查找数字
   - [数字在排序数组中出现的次数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/53_01_数字在排序数组中出现的次数.cpp)
   - [0~n-1中缺失的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/53_02_0~n-1中缺失的数字.cpp)
+  - [数组中数值和下标相等的元素](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/53_03_数组中数值和下标相等的元素.cpp)
