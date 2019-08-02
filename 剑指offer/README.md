@@ -189,3 +189,8 @@
   - [数字在排序数组中出现的次数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/53_01_数字在排序数组中出现的次数.cpp)
   - [0~n-1中缺失的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/53_02_0~n-1中缺失的数字.cpp)
   - [数组中数值和下标相等的元素](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/53_03_数组中数值和下标相等的元素.cpp)
+- 面试题54 —— 二叉搜索树的第k大节点
+  - [前序遍历（递归、非递归）](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/54_二叉搜索树的第k大节点.cpp#L115)
+  - [中序遍历（递归、非递归）](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/54_二叉搜索树的第k大节点.cpp#L160)
+  - [后序遍历（递归、非递归）](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/54_二叉搜索树的第k大节点.cpp#L207)
+  - [二叉搜索树的第k大节点）](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/54_二叉搜索树的第k大节点.cpp#L279)
