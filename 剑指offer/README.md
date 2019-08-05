@@ -86,6 +86,9 @@
     - [中序遍历（递归、非递归）](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/54_二叉搜索树的第k大节点.cpp#L159)
     - [后序遍历（递归、非递归）](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/54_二叉搜索树的第k大节点.cpp#L205)
     - [二叉搜索树的第k大节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/54_二叉搜索树的第k大节点.cpp#L277)
+  - 面试题55 —— 二叉树的深度
+    - [二叉树的深度](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/55_01_二叉树的深度.cpp)
+    - [平衡二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/55_02_平衡二叉树.cpp)
 * 栈和队列
   - 面试题9   —— 栈和队列的转换
     - [用两个栈实现队列](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/09_01_%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.cpp)
@@ -199,3 +202,6 @@
   - [中序遍历（递归、非递归）](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/54_二叉搜索树的第k大节点.cpp#L159)
   - [后序遍历（递归、非递归）](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/54_二叉搜索树的第k大节点.cpp#L205)
   - [二叉搜索树的第k大节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/54_二叉搜索树的第k大节点.cpp#L277)
+- 面试题55 —— 二叉树的深度
+  - [二叉树的深度](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/55_01_二叉树的深度.cpp)
+  - [平衡二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/55_02_平衡二叉树.cpp)
