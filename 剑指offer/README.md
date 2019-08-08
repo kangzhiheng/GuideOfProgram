@@ -233,4 +233,4 @@
 - 面试题59 —— 队列的最大值
   - [滑动窗口的最大值](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/59_01_滑动窗口的最大值.cpp)
   - [队列的最大值](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/59_02_队列的最大值.cpp)
-- [面试题60 —— n个骰子的点数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/[面试题60 —— n个骰子的点数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/60_n个骰子的点数.cpp))
+- [面试题60 —— n个骰子的点数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/60_n个骰子的点数.cpp)
