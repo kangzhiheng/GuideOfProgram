@@ -50,7 +50,9 @@
     - [数字在排序数组中出现的次数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/53_01_数字在排序数组中出现的次数.cpp)
     - [0~n-1中缺失的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/53_02_0~n-1中缺失的数字.cpp)
     - [数组中数值和下标相等的元素](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/53_03_数组中数值和下标相等的元素.cpp)
-  
+  - 面试题57 —— 和为s的两个数字
+    - [和为s的两个数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/57_01_和为s的两个数字.cpp)
+    - [和为s的连续正数序列](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/57_02_和为s的连续正数序列.cpp)
 * 字符串
   - [面试题5   —— 替换空格](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
   - [面试题20 —— 表示数值的字符串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/20_表示数值的字符串.cpp)
@@ -63,6 +65,9 @@
   - 面试题50 —— 第一个只出现一次的字符
     - [字符串中第一个只出现一次的字符](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/50_01_第一个只出现一次的字符.cpp)
     - [字符流中第一个只出现一次的字符](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/50_02_字符流中第一个只出现一次的字符.cpp)
+  - 面试题58 —— 翻转字符串
+    - [翻转单词顺序](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/58_01_翻转单词顺序.cpp)
+    - [左旋转字符串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/58_02_左旋转字符串.cpp)
 * 链表
   - [面试题6 —— 从尾到头打印链表](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
   - 面试题18 —— 删除链表的节点
@@ -94,10 +99,20 @@
     - [用两个栈实现队列](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/09_01_%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.cpp)
     - [用两个队列实现栈](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/09_02_%E7%94%A8%E4%B8%A4%E4%B8%AA%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.cpp)
   - [面试题30 —— 包含min函数的栈](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/30_包含min函数的栈.cpp)
+  - 面试题59 —— 队列的最大值
+    - [滑动窗口的最大值](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/59_01_滑动窗口的最大值.cpp)
+    - [队列的最大值](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/59_02_队列的最大值.cpp)
 * 图
+* 双指针
+  - 面试题57 —— 和为s的两个数字
+    - [和为s的两个数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/57_01_和为s的两个数字.cpp)
+    - [和为s的连续正数序列](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/57_02_和为s的连续正数序列.cpp)
 * 位运算
   
   - [面试题15 —— 二进制中的1的个数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/15_二进制中的1的个数.cpp)
+  - 面试题56 —— 数组中数字出现的次数
+    - [数组中只出现一次的两个数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/56_02_数组中唯一只出现一次的数字.cpp)
+    - [数组中唯一只出现一次的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/56_02_数组中唯一只出现一次的数字.cpp)
 
 #### 算法思想
 
@@ -119,6 +134,7 @@
   - 面试题47 —— 礼物的最大价值
     - [二维DP数组](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/47_礼物的最大价值(二维DP数组).cpp)
     - [一维DP数组](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/47_礼物的最大价值(一维DP数组).cpp)
+  - [面试题60 —— n个骰子的点数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/60_n个骰子的点数.cpp)
 * 分治
 * 二分法
 
@@ -217,3 +233,4 @@
 - 面试题59 —— 队列的最大值
   - [滑动窗口的最大值](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/59_01_滑动窗口的最大值.cpp)
   - [队列的最大值](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/59_02_队列的最大值.cpp)
+- [面试题60 —— n个骰子的点数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/[面试题60 —— n个骰子的点数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/60_n个骰子的点数.cpp))
