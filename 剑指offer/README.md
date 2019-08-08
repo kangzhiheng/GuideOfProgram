@@ -205,3 +205,15 @@
 - 面试题55 —— 二叉树的深度
   - [二叉树的深度](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/55_01_二叉树的深度.cpp)
   - [平衡二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/55_02_平衡二叉树.cpp)
+- 面试题56 —— 数组中数字出现的次数
+  - [数组中只出现一次的两个数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/56_02_数组中唯一只出现一次的数字.cpp)
+  - [数组中唯一只出现一次的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/56_02_数组中唯一只出现一次的数字.cpp)
+- 面试题57 —— 和为s的两个数字
+  - [和为s的两个数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/57_01_和为s的两个数字.cpp)
+  - [和为s的连续正数序列](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/57_02_和为s的连续正数序列.cpp)
+- 面试题58 —— 翻转字符串
+  - [翻转单词顺序](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/58_01_翻转单词顺序.cpp)
+  - [左旋转字符串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/58_02_左旋转字符串.cpp)
+- 面试题59 —— 队列的最大值
+  - [滑动窗口的最大值](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/59_01_滑动窗口的最大值.cpp)
+  - [队列的最大值](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/59_02_队列的最大值.cpp)
