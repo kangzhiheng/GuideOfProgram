@@ -53,6 +53,8 @@
   - 面试题57 —— 和为s的两个数字
     - [和为s的两个数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/57_01_和为s的两个数字.cpp)
     - [和为s的连续正数序列](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/57_02_和为s的连续正数序列.cpp)
+  - [面试题61 ——扑克牌中的顺子](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/61_扑克牌中的顺子.cpp)
+  - [面试题62 —— 圆圈中最后剩下的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/62_圆圈中最后剩下的数字.cpp)
 * 字符串
   - [面试题5   —— 替换空格](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
   - [面试题20 —— 表示数值的字符串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/20_表示数值的字符串.cpp)
@@ -234,3 +236,5 @@
   - [滑动窗口的最大值](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/59_01_滑动窗口的最大值.cpp)
   - [队列的最大值](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/59_02_队列的最大值.cpp)
 - [面试题60 —— n个骰子的点数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/60_n个骰子的点数.cpp)
+- [面试题61 ——扑克牌中的顺子](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/61_扑克牌中的顺子.cpp)
+- [面试题62 —— 圆圈中最后剩下的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/62_圆圈中最后剩下的数字.cpp)
