@@ -115,6 +115,7 @@
   - 面试题56 —— 数组中数字出现的次数
     - [数组中只出现一次的两个数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/56_02_数组中唯一只出现一次的数字.cpp)
     - [数组中唯一只出现一次的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/56_02_数组中唯一只出现一次的数字.cpp)
+  - [面试题65 —— 不用加减乘除做加法](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/65_不用加减乘除做加法.cpp)
 
 #### 算法思想
 
@@ -240,3 +241,4 @@
 - [面试题62 —— 圆圈中最后剩下的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/62_圆圈中最后剩下的数字.cpp)
 - [面试题63 —— 股票的最大利润](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/63_股票的最大利润.cpp)
 - [面试题64 —— 求1+2+···+n(不用乘除法、循环等条件)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/64_求1+2+···+n.cpp)
+- [面试题65 —— 不用加减乘除做加法](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/65_不用加减乘除做加法.cpp)
