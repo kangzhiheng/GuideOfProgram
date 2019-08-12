@@ -55,6 +55,7 @@
     - [和为s的连续正数序列](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/57_02_和为s的连续正数序列.cpp)
   - [面试题61 ——扑克牌中的顺子](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/61_扑克牌中的顺子.cpp)
   - [面试题62 —— 圆圈中最后剩下的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/62_圆圈中最后剩下的数字.cpp)
+  - [面试题66 —— 构建乘积数组](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/66_构建乘积数组.cpp)
 * 字符串
   - [面试题5   —— 替换空格](https://github.com/kangzhiheng/GuideOfProgram/blob/master/%E5%89%91%E6%8C%87offer/剑指offer/06_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)
   - [面试题20 —— 表示数值的字符串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/20_表示数值的字符串.cpp)
@@ -242,3 +243,4 @@
 - [面试题63 —— 股票的最大利润](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/63_股票的最大利润.cpp)
 - [面试题64 —— 求1+2+···+n(不用乘除法、循环等条件)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/64_求1+2+···+n.cpp)
 - [面试题65 —— 不用加减乘除做加法](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/65_不用加减乘除做加法.cpp)
+- [面试题66 —— 构建乘积数组](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/66_构建乘积数组.cpp)
