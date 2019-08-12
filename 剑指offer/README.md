@@ -238,3 +238,5 @@
 - [面试题60 —— n个骰子的点数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/60_n个骰子的点数.cpp)
 - [面试题61 ——扑克牌中的顺子](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/61_扑克牌中的顺子.cpp)
 - [面试题62 —— 圆圈中最后剩下的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/62_圆圈中最后剩下的数字.cpp)
+- [面试题63 —— 股票的最大利润](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/63_股票的最大利润.cpp)
+- [面试题64 —— 求1+2+···+n(不用乘除法、循环等条件)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/64_求1+2+···+n.cpp)
