@@ -50,6 +50,9 @@
     - [数字在排序数组中出现的次数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/53_01_数字在排序数组中出现的次数.cpp)
     - [0~n-1中缺失的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/53_02_0~n-1中缺失的数字.cpp)
     - [数组中数值和下标相等的元素](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/53_03_数组中数值和下标相等的元素.cpp)
+  - 面试题56 —— 数组中数字出现的次数
+    - [数组中只出现一次的两个数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/56_01_数组中只出现一次的两个数字.cpp)
+    - [数组中唯一只出现一次的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/56_02_数组中唯一只出现一次的数字.cpp)
   - 面试题57 —— 和为s的两个数字
     - [和为s的两个数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/57_01_和为s的两个数字.cpp)
     - [和为s的连续正数序列](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/57_02_和为s的连续正数序列.cpp)
@@ -226,7 +229,7 @@
   - [二叉树的深度](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/55_01_二叉树的深度.cpp)
   - [平衡二叉树](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/55_02_平衡二叉树.cpp)
 - 面试题56 —— 数组中数字出现的次数
-  - [数组中只出现一次的两个数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/56_02_数组中唯一只出现一次的数字.cpp)
+  - [数组中只出现一次的两个数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/56_01_数组中只出现一次的两个数字.cpp)
   - [数组中唯一只出现一次的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/56_02_数组中唯一只出现一次的数字.cpp)
 - 面试题57 —— 和为s的两个数字
   - [和为s的两个数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/57_01_和为s的两个数字.cpp)
