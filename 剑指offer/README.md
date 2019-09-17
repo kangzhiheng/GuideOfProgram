@@ -65,6 +65,7 @@
     - [字符串的组合(无重复字符)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_字符串的组合.cpp)
     - [八皇后问题(全排列)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_八皇后问题(全排列).cpp)
     - [八皇后问题(回溯)](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/38_八皇后问题(回溯).cpp)
+  - [面试题46 —— 把数字翻译成字符串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/46_把数字翻译成字符串.cpp)
   - 面试题50 —— 第一个只出现一次的字符
     - [字符串中第一个只出现一次的字符](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/50_01_第一个只出现一次的字符.cpp)
     - [字符流中第一个只出现一次的字符](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/50_02_字符流中第一个只出现一次的字符.cpp)
@@ -139,6 +140,7 @@
     - [二维DP数组](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/47_礼物的最大价值(二维DP数组).cpp)
     - [一维DP数组](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/47_礼物的最大价值(一维DP数组).cpp)
   - [面试题60 —— n个骰子的点数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/60_n个骰子的点数.cpp)
+  - [面试题19 —— 正则表达式匹配](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/19_正则表达式匹配.cpp)
 * 分治
 * 二分法
 
@@ -172,6 +174,7 @@
 - 面试题18 —— 删除链表的节点
   - [在O(1)时间内删除链表节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/18_01_在O(1)时间内删除链表节点.cpp)
   - [删除链表中重复的节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/18_02_删除链表中重复的节点.cpp)
+- [面试题19 —— 正则表达式匹配](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/19_正则表达式匹配.cpp)
 - [面试题20 —— 表示数值的字符串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/20_表示数值的字符串.cpp)
 - [面试题21 —— 调整数组顺序使奇数位于偶数前面](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/21_调整数组顺序使奇数位于偶数前面.cpp)
 - [面试题22 —— 链表中倒数第k个节点](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/22_链表中倒数第k个节点.cpp)
@@ -203,6 +206,7 @@
   - [1 ~ n整数中0出现的次数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/43_1~n整数中0出现的次数.cpp)
 - [面试题44 —— 数字序列中某一位的数字](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/44_数字序列中某一位的数字.cpp)
 - [面试题45 —— 把数组排成最小的数](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/45_把数组排成最小的数.cpp)
+- [面试题46 —— 把数字翻译成字符串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/46_把数字翻译成字符串.cpp)
 - 面试题47 —— 礼物的最大价值
   - [二维DP数组](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/47_礼物的最大价值(二维DP数组).cpp)
   - [一维DP数组](https://github.com/kangzhiheng/GuideOfProgram/blob/master/剑指offer/剑指offer/47_礼物的最大价值(一维DP数组).cpp)
