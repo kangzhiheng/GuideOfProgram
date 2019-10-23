@@ -49,6 +49,7 @@
 | 序号 |                             题目                             | 难度 |
 | :--: | :----------------------------------------------------------: | :--: |
 |  [3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)  | [无重复字符串的最长子串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/03_%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.cpp) | **_MIDD_**:heart::neutral_face: |
+|  [10](https://leetcode-cn.com/problems/regular-expression-matching)  |  [正则表达式匹配](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/10_正则表达式匹配.cpp) | **_HARD_**:broken_heart::sob: |
 |  [32](https://leetcode-cn.com/problems/longest-valid-parentheses)  | [最长有效括号_DP](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/32_最长有效括号_DP.cpp) <br> [最长有效括号_栈](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/32_最长有效括号_栈.cpp) | **_HARD_**:broken_heart::sob: |
 |  [35](https://leetcode-cn.com/problems/search-insert-position)  | [搜索插入位置](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/35_%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.cpp) | **_SOSO_**:neutral_face::sweat_smile: |
 |  [53](https://leetcode-cn.com/problems/maximum-subarray)  | [最长子序和](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/53_%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.cpp) | **_SOSO_**:neutral_face::sweat_smile:  |
@@ -63,6 +64,7 @@
 |  [680](https://leetcode-cn.com/problems/valid-palindrome-ii)  | [验证回文串II](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/680_%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2II.cpp) |   **_SOSO_**:neutral_face::sweat_smile:   |
 |  [903](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/submissions/)  | [DI 序列的有效排列](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/903_DI序列的有效排列.cpp) |   **_HARD_**:broken_heart::sob:   |
 |  [1189](https://leetcode-cn.com/problems/maximum-number-of-balloons)  | [“气球”的最大数量.cpp](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/1189_“气球”的最大数量.cpp) |   **_HARD_**:broken_heart::sob:   |
+
 
 
 
