@@ -65,6 +65,7 @@
 |  [409](https://leetcode-cn.com/problems/longest-palindrome)  | [最长回文串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/409_%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E4%B8%B2.cpp) |   **_SOSO_**:neutral_face::sweat_smile:   |
 |  [680](https://leetcode-cn.com/problems/valid-palindrome-ii)  | [验证回文串II](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/680_%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2II.cpp) |   **_SOSO_**:neutral_face::sweat_smile:   |
 |  [903](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/submissions/)  | [DI 序列的有效排列](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/903_DI序列的有效排列.cpp) |   **_HARD_**:broken_heart::sob:   |
+|  [997](https://leetcode-cn.com/problems/find-the-town-judge)  |  [找到小镇的法官](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/997_找到小镇的法官.cpp)  |  **_SOSO_**:neutral_face::sweat_smile:   |
 |  [1189](https://leetcode-cn.com/problems/maximum-number-of-balloons)  | [“气球”的最大数量.cpp](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/1189_“气球”的最大数量.cpp) |   **_HARD_**:broken_heart::sob:   |
 
 
