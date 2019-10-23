@@ -55,6 +55,7 @@
 |  [45](https://leetcode-cn.com/problems/jump-game-ii)  |  [跳跃游戏II](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/45_跳跃游戏II.cpp)  |  **_HARD_**:broken_heart::sob: |
 |  [53](https://leetcode-cn.com/problems/maximum-subarray)  | [最长子序和](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/53_%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.cpp) | **_SOSO_**:neutral_face::sweat_smile:  |
 |  [54](https://leetcode-cn.com/problems/spiral-matrix)  | [螺旋矩阵](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/54_%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5.cpp) |   **_MIDD_**:heart::neutral_face:   |
+|  [55](https://leetcode-cn.com/problems/jump-game)  |  [跳跃游戏](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/55_跳跃游戏.cpp)
 |  [56](https://leetcode-cn.com/problems/merge-intervals)  | [合并区间](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/56_%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.cpp) |   **_MIDD_**:heart::neutral_face:    |
 |  [64](https://leetcode-cn.com/problems/minimum-path-sum)  | [最小路径和](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/64_%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.cpp) |   **_MIDD_**:heart::neutral_face:    |
 |  [70](https://leetcode-cn.com/problems/climbing-stairs)  | [爬楼梯](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/70_%E7%88%AC%E6%A5%BC%E6%A2%AF.cpp) |   **_SOSO_**:neutral_face::sweat_smile:   |
