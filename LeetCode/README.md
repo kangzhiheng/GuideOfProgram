@@ -48,7 +48,8 @@
 ### 剑指offer目录
 | 序号 |                             题目                             | 难度 |
 | :--: | :----------------------------------------------------------: | :--: |
-|  [3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)  | [无重复字符串的最长子串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/03_%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.cpp) | **_MIDD_**:heart::neutral_face: |
+|  [3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)  | [无重复字符串的最长子串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/3_无重复字符的最长子串.cpp) | **_MIDD_**:heart::neutral_face: |
+|  [5](https://leetcode-cn.com/problems/longest-palindromic-substring)  | [最长回文子串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/5_最长回文子串.cpp) | **_MIDD_**:heart::neutral_face: |
 |  [10](https://leetcode-cn.com/problems/regular-expression-matching)  |  [正则表达式匹配](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/10_正则表达式匹配.cpp) | **_HARD_**:broken_heart::sob: |
 |  [15](https://leetcode-cn.com/problems/3sum)  |  [三数之和](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/15_三数之和.cpp)  |  **_MIDD_**:heart::neutral_face: |
 |  [18](https://leetcode-cn.com/problems/4sum)  |  [四数之和](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/18_四数之和.cpp)  |  **_MIDD_**:heart::neutral_face: |
