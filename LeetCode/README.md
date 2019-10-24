@@ -11,13 +11,13 @@
 
 ### LeetCode目录
 | 序号 |                             题目                             | 难度 |
-| :--: | :----------------------------------------------------------: | :--: |
+| :--: | :----------------------------------------------------------: | :--: | :-: |
 |  [3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)  | [无重复字符串的最长子串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/3_无重复字符的最长子串.cpp) | **_MIDD_**:heart::neutral_face: |
 |  [5](https://leetcode-cn.com/problems/longest-palindromic-substring)  | [最长回文子串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/5_最长回文子串.cpp) | **_MIDD_**:heart::neutral_face: |
 |  [10](https://leetcode-cn.com/problems/regular-expression-matching)  |  [正则表达式匹配](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/10_正则表达式匹配.cpp) | **_HARD_**:broken_heart::sob: |
 |  [15](https://leetcode-cn.com/problems/3sum)  |  [三数之和](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/15_三数之和.cpp)  |  **_MIDD_**:heart::neutral_face: |
 |  [18](https://leetcode-cn.com/problems/4sum)  |  [四数之和](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/18_四数之和.cpp)  |  **_MIDD_**:heart::neutral_face: |
-|  [32](https://leetcode-cn.com/problems/longest-valid-parentheses)  | [最长有效括号_DP](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/32_最长有效括号_DP.cpp) <br> [最长有效括号_栈](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/32_最长有效括号_栈.cpp) | **_HARD_**:broken_heart::sob: |
+|  [32](https://leetcode-cn.com/problems/longest-valid-parentheses)  | [最长有效括号_DP](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/32_最长有效括号_DP.cpp) <br> [最长有效括号_栈](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/32_最长有效括号_栈.cpp) | **_HARD_**:broken_heart::sob: |  DP、栈  |
 |  [33](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)  | [搜索旋转排序数组](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/33_搜索旋转排序数组.cpp) | **_MIDD_**:heart::neutral_face: |
 |  [35](https://leetcode-cn.com/problems/search-insert-position)  | [搜索插入位置](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/35_%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.cpp) | **_SOSO_**:neutral_face::sweat_smile: |
 |  [45](https://leetcode-cn.com/problems/jump-game-ii)  |  [跳跃游戏II](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/45_跳跃游戏II.cpp)  |  **_HARD_**:broken_heart::sob: |
