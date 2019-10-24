@@ -10,7 +10,7 @@
 本repo记录本人学习[LeetCode](<https://leetcode-cn.com/>)的经历。
 
 ### LeetCode目录
-| 序号 |                             题目                             | 难度 |
+| 序号 |                             题目                             | 难度 | 方法 |
 | :--: | :----------------------------------------------------------: | :--: | :-: |
 |  [3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)  | [无重复字符串的最长子串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/3_无重复字符的最长子串.cpp) | **_MIDD_**:heart::neutral_face: | |
 |  [5](https://leetcode-cn.com/problems/longest-palindromic-substring)  | [最长回文子串](https://github.com/kangzhiheng/GuideOfProgram/blob/master/LeetCode/LeetCode/5_最长回文子串.cpp) | **_MIDD_**:heart::neutral_face: | |
