@@ -33,8 +33,11 @@
 using namespace std;
 
 // 递归，每次打印最外面的那条边
-void spiralOrder(vector<vector<int>>& matrix)
+vector<int> spiralOrder(vector<vector<int>>& matrix)
 {
+	if (matrix.empty())
+		return {};
+
 	int top = 0;
 	int bottom = matrix.size() - 1;
 	int left = 0;
@@ -44,34 +47,31 @@ void spiralOrder(vector<vector<int>>& matrix)
 
 	while (1)
 	{
-		if (left > right)
-			break;
 		// 上边
-		for (int i = left; i <= right; i++)
-			cout << matrix[top][i] << " ";
-		top++;
-
-		if (top > bottom)
+		for (int i = left; i <= right; ++i)
+			spiramatrix.push_back(matrix[top][i]);
+		if (++top > bottom)
 			break;
+
 		// 右边
-		for (int i = top; i <= bottom; i++)
-		    cout << matrix[i][right] << " ";
-		right--;
-
-		if (left > right)
+		for (int i = top; i <= bottom; ++i)
+			spiramatrix.push_back(matrix[i][right]);
+		if (right-- < left)
 			break;
+
 		// 下边
 		for (int i = right; i >= left; i--)
-			cout << matrix[bottom][i] << " ";
-		bottom--;
-
-		if (top > bottom)
+			spiramatrix.push_back(matrix[bottom][i]);
+		if (--bottom < top)
 			break;
 		// 左边
 		for (int i = bottom; i >= top; i--)
-			cout << matrix[i][left] << " ";
-		left++;
+			spiramatrix.push_back(matrix[i][left]);
+		if (++left > right)
+			break;
 	}
+
+	return spiramatrix;
 }
 
 int main()
@@ -91,7 +91,9 @@ int main()
 		}
 	}
 
-	spiralOrder(arr);
+	vector<int> arrs = spiralOrder(arr);
+	for (int i = 0; i < arrs.size(); ++i)
+		cout << arrs[i] << " ";
 
 	return 0;
 }
