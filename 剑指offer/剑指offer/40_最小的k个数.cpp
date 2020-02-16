@@ -1,7 +1,7 @@
 //-----------------------------------------------------------------------------
 // 文 件 名: 40_最小的k个数.cpp
 // 作    者：adoredee
-// 创建时间： 2019.06.11
+// 创建时间： 2019.06.13
 // 描    述：最小的k个数
 // 版    本：
 //-----------------------------------------------------------------------------
@@ -77,8 +77,10 @@ vector<int> kLeastNumbers_Partition(vector<int>& arr, int k)
 vector<int> kLeastNumbers_top_k(vector<int>& arr, int k)
 {
 	// 异常检测
-	if (arr.empty() || arr.size() <= 0 || k > arr.size() || k <= 0)
+	if (arr.empty() || arr.size() <= 0 || k > arr.size() || k < 0)
 		return arr;
+	if (k == 0)
+		return {};
 
 	/*
 	top_k思路：先取数组中前k个数，按从小到大排列，
@@ -91,7 +93,7 @@ vector<int> kLeastNumbers_top_k(vector<int>& arr, int k)
 
 	for (int i = k; i < arr.size(); i++)
 	{
-		if (arr[i] < arr_top_k[0])    // 如果剩下的元素小于arr_top_k里最小的，则替换掉arr_top_k里最大的数
+		if (arr[i] < arr_top_k[k - 1])    // 如果剩下的元素小于arr_top_k里最大的，则替换掉arr_top_k里最大的数
 		{
 			arr_top_k[k - 1] = arr[i];
 			sort(arr_top_k.begin(), arr_top_k.end());
